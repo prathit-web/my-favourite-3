@@ -1,0 +1,41 @@
+body{
+text-align: center;
+background-color: aqua;
+}
+.menu{
+list-style: none;
+font-family: cursive;
+float: right;
+top: 112222222290px;
+right:30px;
+cursor: pointer;
+color: black;
+}
+#img{
+height:300px;
+width:300;
+border-radius:50%;
+}
+#my{
+font-family: cursive;
+}
+#home{
+background-color:greenyellow;
+}
+#about{
+background-color:pink;
+}
+.line{
+    width: 100px;
+    border:100px;
+}
+#hit{
+font-family: fantasy;
+}
+#myfavouritebook{
+background-color: lawngreen;
+}
+#ig{
+height: 255px;
+border-radius:50%;
+}
